@@ -1,0 +1,1306 @@
+[11-Apr-2025 15:47:30 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /project/sandbox/user-workspace/my-hijab/products.php:11
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:47:33 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 6
+[11-Apr-2025 15:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/testimonials.php:6
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 6
+[11-Apr-2025 15:47:43 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /project/sandbox/user-workspace/my-hijab/products.php:11
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:48:49 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /project/sandbox/user-workspace/my-hijab/products.php:11
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:48:55 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /project/sandbox/user-workspace/my-hijab/products.php:11
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/products.php on line 11
+[11-Apr-2025 15:53:04 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 15:53:04 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 15:53:04 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 15:53:04 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 15:53:04 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 15:53:04 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:01 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/product-detail.php on line 9
+[11-Apr-2025 16:05:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/product-detail.php:9
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/product-detail.php on line 9
+[11-Apr-2025 16:05:04 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/product-detail.php on line 9
+[11-Apr-2025 16:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/product-detail.php:9
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/product-detail.php on line 9
+[11-Apr-2025 16:05:07 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/product-detail.php on line 9
+[11-Apr-2025 16:05:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/product-detail.php:9
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/product-detail.php on line 9
+[11-Apr-2025 16:05:08 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:08 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:08 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:08 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:08 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:08 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:10 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:10 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:10 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:10 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:10 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:10 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:40 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:40 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:40 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:40 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:40 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:05:40 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[11-Apr-2025 16:06:10 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/cart.php on line 35
+[11-Apr-2025 16:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/cart.php:35
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/cart.php on line 35
+[11-Apr-2025 16:18:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:18:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:19:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:20:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:20:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:21:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:22:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:24:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[11-Apr-2025 16:28:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:23 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[11-Apr-2025 16:28:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[11-Apr-2025 16:28:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:34 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[11-Apr-2025 16:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[11-Apr-2025 16:28:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:28:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:29:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:30:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:31:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:31:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:31:37 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[11-Apr-2025 16:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[11-Apr-2025 16:34:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:35:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:35:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:35:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:36:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[11-Apr-2025 16:36:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 11
+[12-Apr-2025 00:36:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /project/sandbox/user-workspace/my-hijab/includes/header.php:96) in /project/sandbox/user-workspace/my-hijab/includes/config.php on line 34
+[12-Apr-2025 00:37:34 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[12-Apr-2025 00:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[12-Apr-2025 00:41:37 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:41:37 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:41:37 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:41:37 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:41:37 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:41:37 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:42:04 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:42:04 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:42:04 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:42:04 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:42:04 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:42:04 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:55:06 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:55:06 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:55:06 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:55:06 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:55:06 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 00:55:06 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 139
+[12-Apr-2025 01:06:49 UTC] Session ID: 3vq6tkv89hgd0ei1gpto5fsbsc
+[12-Apr-2025 01:06:49 UTC] Session Data: Array
+(
+)
+
+[12-Apr-2025 01:06:49 UTC] Cart initialized in session
+[12-Apr-2025 01:07:15 UTC] Session ID: 3vq6tkv89hgd0ei1gpto5fsbsc
+[12-Apr-2025 01:07:15 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:07:28 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 01:07:28 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 01:07:31 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 01:07:31 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 01:07:46 UTC] Session ID: 3vq6tkv89hgd0ei1gpto5fsbsc
+[12-Apr-2025 01:07:46 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:07:46 UTC] Session ID: 3vq6tkv89hgd0ei1gpto5fsbsc
+[12-Apr-2025 01:07:46 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [3] => 1
+        )
+
+    [success] => Produk berhasil ditambahkan ke keranjang!
+)
+
+[12-Apr-2025 01:08:22 UTC] Session ID: 3vq6tkv89hgd0ei1gpto5fsbsc
+[12-Apr-2025 01:08:22 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [3] => 1
+        )
+
+)
+
+[12-Apr-2025 01:18:29 UTC] Session ID: 0j8k0hsu4jlho1g3djthf4b1du
+[12-Apr-2025 01:18:29 UTC] Session Data: Array
+(
+)
+
+[12-Apr-2025 01:18:29 UTC] Cart initialized in session
+[12-Apr-2025 01:24:38 UTC] Session ID: 7965i1n8a6mn91p7vbgjb6a2dv
+[12-Apr-2025 01:24:38 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:25:02 UTC] Session ID: 7965i1n8a6mn91p7vbgjb6a2dv
+[12-Apr-2025 01:25:02 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:25:10 UTC] Session ID: 7965i1n8a6mn91p7vbgjb6a2dv
+[12-Apr-2025 01:25:10 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:25:27 UTC] Session ID: td9kl2l747qa1v9soqrpbbpkfs
+[12-Apr-2025 01:25:27 UTC] Session Data: Array
+(
+)
+
+[12-Apr-2025 01:25:27 UTC] Cart initialized in session
+[12-Apr-2025 01:34:31 UTC] Session ID: 6rr4hpectbegnutna9d1qo2rs0
+[12-Apr-2025 01:34:31 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:34:58 UTC] Session ID: 6rr4hpectbegnutna9d1qo2rs0
+[12-Apr-2025 01:34:58 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:35:35 UTC] Session ID: 6rr4hpectbegnutna9d1qo2rs0
+[12-Apr-2025 01:35:35 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:35:35 UTC] Session ID: 6rr4hpectbegnutna9d1qo2rs0
+[12-Apr-2025 01:35:35 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [3] => 1
+        )
+
+    [success] => Produk berhasil ditambahkan ke keranjang!
+)
+
+[12-Apr-2025 01:37:07 UTC] Session ID: 6rr4hpectbegnutna9d1qo2rs0
+[12-Apr-2025 01:37:07 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [3] => 1
+        )
+
+)
+
+[12-Apr-2025 01:39:06 UTC] Session ID: v099af0fk7r5nvdvhcmbo7tlqt
+[12-Apr-2025 01:39:06 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:39:13 UTC] Session ID: enmmptchr8cff3gbq5s2mk4qjo
+[12-Apr-2025 01:39:13 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:39:33 UTC] Session ID: v099af0fk7r5nvdvhcmbo7tlqt
+[12-Apr-2025 01:39:33 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 01:39:41 UTC] Session ID: v099af0fk7r5nvdvhcmbo7tlqt
+[12-Apr-2025 01:39:41 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:06:44 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 02:06:44 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 02:06:48 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 02:06:48 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 02:06:51 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 02:06:51 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 02:07:26 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 02:07:26 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 02:07:30 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 02:07:30 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 02:07:39 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 02:07:39 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 02:07:39 UTC] PHP Warning:  Undefined variable $conn in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[12-Apr-2025 02:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /project/sandbox/user-workspace/my-hijab/admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /project/sandbox/user-workspace/my-hijab/admin/index.php on line 21
+[12-Apr-2025 02:08:10 UTC] Session ID: h9mpg9ac8cuv2ajo4ch5v6g2uk
+[12-Apr-2025 02:08:10 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:12 UTC] Session ID: t5ghhkupdp1ngdco8clbjjah5f
+[12-Apr-2025 02:08:12 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:12 UTC] Session ID: oc7csknkoh3h1akio8fpol5er9
+[12-Apr-2025 02:08:12 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:13 UTC] Session ID: vrgkoiviljp2u9vj7j8584cvel
+[12-Apr-2025 02:08:13 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:13 UTC] Session ID: pcudrp7nh4r1l98fras5bmkaom
+[12-Apr-2025 02:08:13 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:13 UTC] Session ID: 3s1megkknkug8a7rtqqt2jjknq
+[12-Apr-2025 02:08:13 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:14 UTC] Session ID: lc13876i99fobiadr1br4f1o7e
+[12-Apr-2025 02:08:14 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:14 UTC] Session ID: crr5jch0bi478bjvu89riqa34g
+[12-Apr-2025 02:08:14 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:15 UTC] Session ID: 2utfcka44d7v79fho67qpd6vr3
+[12-Apr-2025 02:08:15 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:15 UTC] Session ID: mv98oq13bi3gcdr9i2salbq5p2
+[12-Apr-2025 02:08:15 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:15 UTC] Session ID: b1c0s8ss4ffjnt0f7rl9rad3vv
+[12-Apr-2025 02:08:15 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:16 UTC] Session ID: 23f7aqfagu7sbkra8evfrbq1du
+[12-Apr-2025 02:08:16 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:16 UTC] Session ID: akrrqgnp5qj705l7bhhn8qi1fo
+[12-Apr-2025 02:08:16 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:18 UTC] Session ID: a51b7351leb7qbnnq7sqvptb9k
+[12-Apr-2025 02:08:18 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:18 UTC] Session ID: im07sb29j6gt4nkbgvs63tlg29
+[12-Apr-2025 02:08:18 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:18 UTC] Session ID: 59ic7itio4ivvns7gmpbmo125l
+[12-Apr-2025 02:08:18 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:18 UTC] Session ID: r6f92ag5aq13215latfdvknttb
+[12-Apr-2025 02:08:18 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:22 UTC] Session ID: 4cp19r9iampd621vo0l33tl2hi
+[12-Apr-2025 02:08:22 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:22 UTC] Session ID: fvu92lpg14aa1548hlo5v8sspj
+[12-Apr-2025 02:08:22 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:24 UTC] Session ID: ta188n1lpl4s7srs50cdnb2mog
+[12-Apr-2025 02:08:24 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:24 UTC] Session ID: 6ud26vt8rppla8tm2u84r0mvsd
+[12-Apr-2025 02:08:24 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:25 UTC] Session ID: c4dqpsmlpstm0o4kd1qgo0o7sr
+[12-Apr-2025 02:08:25 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:25 UTC] Session ID: 8ajfl9u6a0ogj3p896u23qovcd
+[12-Apr-2025 02:08:25 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:28 UTC] Session ID: vaafjucrqvi5tgc94rftsiq0g4
+[12-Apr-2025 02:08:28 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:28 UTC] Session ID: l1d24j5sr2tp6smt3na0uhjqmu
+[12-Apr-2025 02:08:28 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:32 UTC] Session ID: p4j9s374fbhjiipjqdssen54rk
+[12-Apr-2025 02:08:32 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:08:32 UTC] Session ID: ul9grb93o9nka4bjqns2kl333l
+[12-Apr-2025 02:08:32 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:28:31 UTC] Session ID: 1559jm3eemh1ii16372b4e5cu1
+[12-Apr-2025 02:28:31 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 02:30:27 UTC] Session ID: eeaiia6opq62gu5h9kha5nr4pv
+[12-Apr-2025 02:30:27 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 03:07:33 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 03:07:33 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 03:07:48 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 03:07:48 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 03:07:56 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 03:07:56 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 03:08:04 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 03:08:04 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 03:08:10 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 03:08:10 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 03:08:52 UTC] Session ID: 6thrssefk4m1vf9afdsmtl2s9v
+[12-Apr-2025 03:08:52 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 03:17:21 UTC] Session ID: vfe19819hhe0o147m0lk1n59st
+[12-Apr-2025 03:17:21 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 03:21:29 UTC] Session ID: 97r3mvkpqar0h6eg18cmroes3g
+[12-Apr-2025 03:21:29 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 03:25:42 UTC] Session ID: ofdq7f1csq02olabj6p3j2l5c3
+[12-Apr-2025 03:25:42 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 03:32:31 UTC] Session ID: aoe8pr98p71plq5q4qqn1774m8
+[12-Apr-2025 03:32:31 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 03:38:23 UTC] Session ID: jughhb51ts7uj2tk2l25g46a26
+[12-Apr-2025 03:38:23 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 03:46:40 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 03:46:40 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 03:46:45 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 03:46:45 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 04:19:32 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 04:19:32 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 05:46:01 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 05:46:01 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 05:46:14 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 05:46:14 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 05:46:15 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 05:46:15 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 05:46:15 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 140
+[12-Apr-2025 05:46:15 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 140
+[12-Apr-2025 05:46:15 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 140
+[12-Apr-2025 05:46:15 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 140
+[12-Apr-2025 05:46:15 UTC] PHP Warning:  Undefined array key "created_at" in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 140
+[12-Apr-2025 05:46:15 UTC] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in /project/sandbox/user-workspace/my-hijab/testimonials.php on line 140
+[12-Apr-2025 05:46:17 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 05:46:17 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 05:46:19 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 05:46:19 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[12-Apr-2025 05:47:53 UTC] Session ID: 7965i1n8a6mn91p7vbgjb6a2dv
+[12-Apr-2025 05:47:53 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 05:48:02 UTC] Session ID: 7965i1n8a6mn91p7vbgjb6a2dv
+[12-Apr-2025 05:48:02 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 05:48:13 UTC] Session ID: 7965i1n8a6mn91p7vbgjb6a2dv
+[12-Apr-2025 05:48:13 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 06:23:27 UTC] Session ID: r4lecai20smbno7lom2949u70b
+[12-Apr-2025 06:23:27 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 06:23:29 UTC] Session ID: ij0kr2vfnps955poj46t9ah274
+[12-Apr-2025 06:23:29 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 06:52:24 UTC] Session ID: 4hc1bd6ujvm858tjrm9qbkbs7t
+[12-Apr-2025 06:52:24 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 09:14:53 UTC] Session ID: m8sij1020jvh0blkvn1trb5260
+[12-Apr-2025 09:14:53 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 09:20:01 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[12-Apr-2025 09:20:01 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 12:59:32 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 12:59:32 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 12:59:35 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 12:59:35 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:04:30 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 13:04:30 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:04:46 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 13:04:46 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:05:22 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 13:05:22 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:05:46 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 13:05:46 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:06:16 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 13:06:16 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:06:24 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 13:06:24 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:06:38 UTC] Session ID: 4cdvnblc283q0rl7pa6i7psai0
+[13-Apr-2025 13:06:38 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+            [2] => 1
+        )
+
+)
+
+[13-Apr-2025 13:10:43 UTC] Session ID: 61lggv0m7iq6eimg87jjlhvc29
+[13-Apr-2025 13:10:43 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
+[13-Apr-2025 13:10:46 UTC] Session ID: s9on8cr1dmbr41bfj5gi4a9t9c
+[13-Apr-2025 13:10:46 UTC] Session Data: Array
+(
+    [cart] => Array
+        (
+        )
+
+)
+
